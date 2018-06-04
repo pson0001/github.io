@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$tablet".
-        on line 46 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/senza_carta.scss
+        on line 46 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/senza_carta.scss
 
 41:       opacity: 0.5;
 42:       transform: translateY(10px);
@@ -15,7 +15,7 @@ Error: Undefined variable: "$tablet".
 51: 
 
 Backtrace:
-/Users/pings/Documents/pingss/source/assets/stylesheets/page/senza_carta.scss:46
+/Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/senza_carta.scss:46
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:542:in `block in run_interp_no_strip'
@@ -146,4 +146,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$tablet\".\A         on line 46 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/senza_carta.scss\A \A 41:       opacity: 0.5;\A 42:       transform: translateY(10px);\A 43:     }\A 44:   }\A 45: \A 46:   @media screen and (min-width: $tablet) {\A 47:     .circle-1 {\A 48:       transform: translateY(30px);\A 49:       animation: circle_1 5s 1s ease infinite;\A 50:     }\A 51: "; }
+  content: "Error: Undefined variable: \"$tablet\".\A         on line 46 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/senza_carta.scss\A \A 41:       opacity: 0.5;\A 42:       transform: translateY(10px);\A 43:     }\A 44:   }\A 45: \A 46:   @media screen and (min-width: $tablet) {\A 47:     .circle-1 {\A 48:       transform: translateY(30px);\A 49:       animation: circle_1 5s 1s ease infinite;\A 50:     }\A 51: "; }

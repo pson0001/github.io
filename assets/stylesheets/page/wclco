@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$grey-light".
-        on line 5 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/wclco.scss
+        on line 5 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/wclco.scss
 
 1: .wclco {
 2:   .wclco-work-tile {
@@ -14,7 +14,7 @@ Error: Undefined variable: "$grey-light".
 10:       @extend .all-transition;
 
 Backtrace:
-/Users/pings/Documents/pingss/source/assets/stylesheets/page/wclco.scss:5
+/Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/wclco.scss:5
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/list_literal.rb:63:in `block in _perform'
@@ -156,4 +156,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$grey-light\".\A         on line 5 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/wclco.scss\A \A 1: .wclco {\A 2:   .wclco-work-tile {\A 3:     @extend .p3;\A 4:     @extend .w100;\A 5:     border: 1px dotted $grey-light;\A 6:     margin-top: 120px;\A 7:     position: relative;\A 8: \A 9:     .image {\A 10:       @extend .all-transition;"; }
+  content: "Error: Undefined variable: \"$grey-light\".\A         on line 5 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/wclco.scss\A \A 1: .wclco {\A 2:   .wclco-work-tile {\A 3:     @extend .p3;\A 4:     @extend .w100;\A 5:     border: 1px dotted $grey-light;\A 6:     margin-top: 120px;\A 7:     position: relative;\A 8: \A 9:     .image {\A 10:       @extend .all-transition;"; }
