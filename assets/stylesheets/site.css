@@ -5670,7 +5670,7 @@ ol.side-nav {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @media screen and (min-width: 1024px) {
   .content:after {
-    content: url(/assets/images/web_front.svg);
+    content: url(/assets/web_front.svg);
     position: absolute;
     top: 50%;
     -webkit-transform: translateY(-50%);

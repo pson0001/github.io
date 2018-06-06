@@ -1,6 +1,6 @@
 /*
 Error: Undefined variable: "$desktop".
-        on line 2 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/index.scss
+        on line 2 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/index.scss
 
 1: 
 2: @media screen and (min-width: $desktop) {
@@ -11,7 +11,7 @@ Error: Undefined variable: "$desktop".
 7:     transform: translateY(-50%);
 
 Backtrace:
-/Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/index.scss:2
+/Users/pings/Documents/pingss/source/assets/stylesheets/page/index.scss:2
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /Library/Ruby/Gems/2.3.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:542:in `block in run_interp_no_strip'
@@ -131,4 +131,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$desktop\".\A         on line 2 of /Users/pings/Documents/website_pings/pson0001.github.io/github.io/source/assets/stylesheets/page/index.scss\A \A 1: \A 2: @media screen and (min-width: $desktop) {\A 3:   .content:after {\A 4:     content: image-url(\"web_front.svg\");\A 5:     position: absolute;\A 6:     top: 50%;\A 7:     transform: translateY(-50%);"; }
+  content: "Error: Undefined variable: \"$desktop\".\A         on line 2 of /Users/pings/Documents/pingss/source/assets/stylesheets/page/index.scss\A \A 1: \A 2: @media screen and (min-width: $desktop) {\A 3:   .content:after {\A 4:     content: image-url(\"web_front.svg\");\A 5:     position: absolute;\A 6:     top: 50%;\A 7:     transform: translateY(-50%);"; }
